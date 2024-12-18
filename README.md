@@ -1,3 +1,9 @@
 # test
 # Git教程
-## feature-A
+<<<<<<< HEAD
+## feature-B
+=======
+测试
+
+## Feature-B
+>>>>>>> Feature-B
